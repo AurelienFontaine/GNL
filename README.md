@@ -1,2 +1,2 @@
 # GNL
-Project that return a line read from a file descriptor with bonus : 125/125
+Fonction qui retourne une ligne lue depuis un file descriptor fait avec les bonus qui permets de gerer plusieurs fd à 125/125.
